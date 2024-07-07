@@ -17,7 +17,7 @@ Aishu Sivamurugan @eyeshoe
 [StockX Data Contest (2019)](https://stockx.com/news/the-2019-data-contest/)
 
 
-## Indicators we'd like to have
+## Indicators
 * time
 * spread
 * size
