@@ -17,10 +17,12 @@ Aishu Sivamurugan @eyeshoe
 [StockX Data Contest (2019)](https://stockx.com/news/the-2019-data-contest/)
 
 
-## Indicators
+## Indicators (includes indicators used in intermediate stages for clarity)
 * time
 * spread
-* size
+* shoe size
 * retail price
+* sale price
+* shoe release date
 * sentiment analysis to predict volatility
-* hype/presale activity
+* relative interest (hype/presale activity)
